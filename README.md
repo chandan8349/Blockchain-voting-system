@@ -1,6 +1,6 @@
 # Blockchain-voting-system
 ```bash
-git clone https://github.com/shifaj22/E-Voting_System_Blockchain
+https://github.com/chandan8349/Blockchain-voting-system
 ```
 cd E-Voting_System_Blockchain
 
